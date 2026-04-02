@@ -1,0 +1,20 @@
+1) Programming & Analysis
+Python
+Pandas
+NumPy
+
+2) Data Visualization
+Matplotlib
+Seaborn
+Power BI
+
+3) Database
+MySQL
+MySQL Connector (Python)
+
+4) Development Environment
+VS Code
+
+5) Version Control
+Git
+GitHub

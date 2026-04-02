@@ -1,0 +1,7 @@
+*.csv
+*.xlsx
+*.zip
+*.json
+__pycache__/
+*.pyc
+data.zip
